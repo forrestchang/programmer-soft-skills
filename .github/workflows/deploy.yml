@@ -16,5 +16,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2
         with:
           build_dir: dist
+          cname: slide.jiayuanzhang.com 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
