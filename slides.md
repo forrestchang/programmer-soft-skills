@@ -197,7 +197,7 @@ layout: two-cols
 
 👉 [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 
-- Paul Graphaham
+- Paul Graham
   - YCombinator, 黑客与画家
 - Makers
   - 大段并且连续的时间
