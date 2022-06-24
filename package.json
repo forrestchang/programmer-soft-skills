@@ -12,5 +12,8 @@
     "@slidev/theme-bricks": "^0.0.2",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.22.2"
   }
 }
